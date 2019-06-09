@@ -1,5 +1,3 @@
-# encrypto-decrypter-machine
-Enigma Machine Simulator
 Author: Matt Iandoli
 Date: February 2019
 Description
@@ -23,18 +21,3 @@ By opening the inside compartment, rotors can be swapped by clicking on them
 Each rotor's ring setting can be changed by clicking on the rotor
 Reflectors can be swapped by clicking on it
 By opening the front compartment, plugs can be connected on the plugboard
-Pictures
-Default view
-Screenshot 1
-
-Plugboard
-Screenshot 2
-
-Inside rotor compartment
-Screenshot 3
-
-Lampboard
-Screenshot 4
-
-Note:
-This web-app was created to be used as a simulator and pair with the Bombe I'm going to create. This means I did not design the HTML/graphics for all screens/web deployment. The machine should work on all browsers and screen sizes but some graphics (specifically plugboard lines) might appear slightly off.
